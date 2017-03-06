@@ -517,6 +517,7 @@
 			baseConfigurationReference = BF7D572B0494E68BBD69ED1B /* Pods-Weexplugin.debug.xcconfig */;
 			buildSettings = {
 				ARCHS = "$(ARCHS_STANDARD)";
+				CLANG_WARN_DOCUMENTATION_COMMENTS = NO;
 				CODE_SIGN_IDENTITY = "";
 				DEAD_CODE_STRIPPING = NO;
 				DEFINES_MODULE = YES;
@@ -541,6 +542,7 @@
 			baseConfigurationReference = B10B6FADCB9D2B3BCEF64F2B /* Pods-Weexplugin.release.xcconfig */;
 			buildSettings = {
 				ARCHS = "$(ARCHS_STANDARD)";
+				CLANG_WARN_DOCUMENTATION_COMMENTS = NO;
 				CODE_SIGN_IDENTITY = "";
 				DEAD_CODE_STRIPPING = NO;
 				DEFINES_MODULE = YES;
